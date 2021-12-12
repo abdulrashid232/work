@@ -1,0 +1,23 @@
+ body {
+        margin: 50px;
+        padding:50px;
+         }
+ .wrapper {
+          /*position: absolute;*/
+          margin:50%; auto; 
+         /* width: 100%;*/
+          text-align:center;
+          border: 3px solid;
+          border-radius: 50%;
+          height: 50px;
+          width: 50px;
+          background: blue;
+
+        }
+ .button {
+        margin: 25%;
+        text-align: center; 
+       /* width: 20px;*/
+       /*background: #ffffff; */ 
+ }  
+
